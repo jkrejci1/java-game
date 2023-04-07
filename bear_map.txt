@@ -1,0 +1,8 @@
+garage	-	-	laundry	-
+laundry	-	-	entrance	garage 
+entrance	-	bar	kitchen	laundry
+kitchen	-	-	-	entrance
+bar	entrance	-	hallway	-
+hallway	-	office	bedroom	bar
+bedroom	-	-	-	hallway
+office	hallway	-	-	-
